@@ -21,7 +21,6 @@ identify==2.6.0
 iniconfig==2.0.0
     # via pytest
 mypy==1.11.1
-    # via couponfinder
 mypy-extensions==1.0.0
     # via mypy
 nodeenv==1.9.1
